@@ -1,23 +1,11 @@
 <h2 align="left">Hi 👋, I'm Bluet</h2>
 <h3 align="left">A passionate frontend developer/entrepreneur</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasudevsoni&label=Profile%20Views&color=8197ee&style=flat" alt="vasudevsoni" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bluetifulazkaban&label=Profile%20Views&color=8197ee&style=flat" alt="bluetifulazkaban" /></p>
 
 - 📖 I’m currently learning **React.js, Redux, Next.js**
 
-- 🤝 I’m looking to collaborate on **web dev projects, and business ventures**
-
-- 👨‍💻 All my projects are available at **[https://vasudevsoni.github.io/my-portfolio](https://vasudevsoni.github.io/my-portfolio)**
-
 - 💬 Ask me about **web development, entrepreneurship, software engineering, android development**
-
-- 📫 Reach me at **vasudevsoni2001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vasudevsoni2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vasudevsoni2001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vasudevsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasudevsoni" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -60,4 +48,4 @@
 </p>
 
 
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasudevsoni&show_icons=true&locale=en&layout=compact" alt="vasudevsoni" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=vasudevsoni&" alt="vasudevsoni" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bluetifulazkaban&show_icons=true&locale=en&layout=compact" alt="bluetifulazkaban" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=bluetifulazkaban&" alt="bluetifulazkaban" /></div>
